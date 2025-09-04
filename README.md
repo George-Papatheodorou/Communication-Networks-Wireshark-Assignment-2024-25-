@@ -1,2 +1,7 @@
 # Communication Networks Wireshark Assignment 2024-2025
-**English**/ Communication Networks assignment. Includes the assignment brief "Wireshark 2024-2025.pdf" and my solution report "Εργασία Δίκτυα 2025". Topics: ICMP/traceroute and DNS &amp; HTTP analysis using Wireshark. **Ελληνικά**/ Εργασία για Δίκτυα Επικοινωνιών. Περιλαμβάνει την εκφώνηση και τη λύση μου με απαντήσεις. Θέματα: ICMP/traceroute, DNS &amp; HTTP ανάλυση με Wireshark.
+ Communication Networks assignment. Includes the assignment brief "Wireshark 2024-2025.pdf" and my solution report "Εργασία Δίκτυα 2025". Topics: ICMP/traceroute and DNS &amp; HTTP analysis using Wireshark.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+Εργασία για Δίκτυα Επικοινωνιών. Περιλαμβάνει την εκφώνηση και τη λύση μου με απαντήσεις. Θέματα: ICMP/traceroute, DNS &amp; HTTP ανάλυση με Wireshark.
